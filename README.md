@@ -1,5 +1,3 @@
-> 🚀 **Live Demo:** [https://ai-app-submission.sharathakkaldevi.workers.dev](https://ai-app-submission.sharathakkaldevi.workers.dev)
-
 
 # Cloudflare Stateful AI Agent 🧠⚡️
 
